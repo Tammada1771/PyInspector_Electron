@@ -1,3 +1,5 @@
+const electron = require('electron')
+
 const { app, BrowserWindow } = require('electron')
 const path = require('path')
 
